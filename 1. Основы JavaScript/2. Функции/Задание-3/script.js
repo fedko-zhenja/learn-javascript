@@ -5,3 +5,4 @@ function min(a, b) {
     return b;
   }
 }
+
